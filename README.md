@@ -30,7 +30,7 @@ The MNIST dataset is automatically loaded using TensorFlow/Keras.
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python
 - TensorFlow
@@ -74,7 +74,7 @@ The Convolutional Neural Network consists of:
 
 ---
 
-## 📊 Model Evaluation
+##  Model Evaluation
 
 The model is evaluated using:
 
@@ -89,7 +89,7 @@ Typical Accuracy:
 
 ---
 
-## 📈 Results
+##  Results
 
 The CNN successfully recognizes handwritten digits with high accuracy.
 
@@ -101,7 +101,7 @@ Example output:
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 Handwritten-Digit-Recognizer-CNN/
@@ -114,7 +114,7 @@ Handwritten-Digit-Recognizer-CNN/
 
 ---
 
-## 🚀 Installation
+##  Installation
 
 Clone the repository
 
@@ -138,7 +138,7 @@ Run the Jupyter Notebook or Google Colab notebook to train and test the model.
 
 ---
 
-## 📷 Sample Output
+##  Sample Output
 
 The project displays:
 
@@ -151,7 +151,7 @@ The project displays:
 
 ---
 
-## 💡 Future Improvements
+##  Future Improvements
 
 - Real-time handwritten digit recognition
 - Streamlit web application
@@ -162,7 +162,7 @@ The project displays:
 
 ---
 
-## 🎓 Learning Outcomes
+##  Learning Outcomes
 
 This project demonstrates:
 
@@ -176,7 +176,7 @@ This project demonstrates:
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Yasaswini Pilla**
 
@@ -188,4 +188,4 @@ GitHub: https://github.com/YasaswiniPilla
 
 ---
 
-## ⭐ If you found this project useful, please consider giving it a Star!
+##  If you found this project useful, please consider giving it a Star!
